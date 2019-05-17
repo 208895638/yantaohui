@@ -1,0 +1,11 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "讨论组",
+  "navigationBarBackgroundColor": "#FDD003",
+  "backgroundColor": "#F8F8F8",
+  "navigationStyle": "custom",
+  "titleNView": false,
+  "usingComponents": {
+    "moreheader": "/components/moreheader"
+  }
+}

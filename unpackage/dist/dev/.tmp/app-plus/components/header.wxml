@@ -1,0 +1,1 @@
+<view class="data-v-d9c895ec" bind:__l="__l"><view class="{{['top _div data-v-d9c895ec',classs]}}"><view data-event-opts="{{[['tap',[['back',['$event']]]]]}}" class="image _div data-v-d9c895ec" bindtap="__e"><v-icon type="arrowleft" size="30" class="data-v-d9c895ec"></v-icon></view><text class="title data-v-d9c895ec">{{title}}</text></view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "报录比",
+  "navigationBarBackgroundColor": "#FDD003",
+  "backgroundColor": "#F8F8F8",
+  "usingComponents": {
+    "v-icon": "/components/uni-icon"
+  }
+}

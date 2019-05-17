@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-icon": "/components/uni-icon"
+  },
+  "component": true
+}

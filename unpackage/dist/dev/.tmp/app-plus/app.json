@@ -1,0 +1,68 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/yuanxiao/yuanxiao",
+    "pages/jigou/jigou",
+    "pages/mine/mine",
+    "homeList/daka/daka",
+    "homeList/xuetang/xuetang",
+    "homeList/zhibo/zhibo",
+    "homeList/zbInfo/zbInfo",
+    "homeList/yanxun/yanxun",
+    "yuanxiaoList/zhaoshengInfo/zhaoshengInfo",
+    "yuanxiaoList/lines/lines",
+    "yuanxiaoList/qun/qun",
+    "yuanxiaoList/settingofqun/settingofqun",
+    "yuanxiaoList/baolubi/baolubi"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "首页",
+    "navigationBarBackgroundColor": "transparent",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/footimg/g1.png",
+        "selectedIconPath": "static/footimg/g1Copy.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/yuanxiao/yuanxiao",
+        "iconPath": "static/footimg/g2.png",
+        "selectedIconPath": "static/footimg/g2Copy.png",
+        "text": "院校"
+      },
+      {
+        "pagePath": "pages/jigou/jigou",
+        "iconPath": "static/footimg/g3.png",
+        "selectedIconPath": "static/footimg/g3Copy.png",
+        "text": "机构"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/footimg/g4.png",
+        "selectedIconPath": "static/footimg/g4Copy.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "ythnew",
+  "compilerVersion": "1.9.4",
+  "usingComponents": {
+    "v-icon": "/components/uni-icon",
+    "headers": "/components/header",
+    "block": "/components/block"
+  }
+}
